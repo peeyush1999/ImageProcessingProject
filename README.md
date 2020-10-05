@@ -1,2 +1,2 @@
 # ImageProcessingProject
-Small Fun projects on Iage Processing
+Small Fun projects on Image Processing
